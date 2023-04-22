@@ -1,0 +1,3 @@
+Number of trainable parameters: 90018
+Validation loss: 0.5345594882965088
+Validation accuracy: 0.9032257795333862
