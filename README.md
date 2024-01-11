@@ -1,5 +1,5 @@
 # Image Detection Using Nano 33 BLE Arduino Board
-## Introduction
+## Overview
 - This project, focuses on object detection, specifically differentiating between stop signs and non-stop signs.
 - Utilizing the Arduino Nano 33 BLE and the OV7675 Camera Module, the project aims to train a binary classification model and deploy it onto an embedded board.
 - The dataset combines ten self-derived images and a comprehensive online dataset from Kaggle, tailored to the project's requirements.
